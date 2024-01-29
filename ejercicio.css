@@ -1,0 +1,33 @@
+#puzzleDesordenado{
+    float:left;
+    width: 500px;
+    height: 500px;
+}
+
+#puzzleDesordenado div{
+    border:1px solid black;
+    border-collapse: collapse;
+    float:left;
+    width: 150px;
+    height: 114px; 
+}
+
+#montarPuzzle{
+    float:left;
+    width: 500px;
+    height: 500px;
+}
+
+#montarPuzzle div{
+    border:1px solid black;
+    border-collapse: collapse;
+    float:left;
+    width: 150px;
+    height: 114px; 
+}
+
+#referencia{
+    width: 550px;
+    height: 400px;
+    transform: translateY(-100px);
+}
